@@ -1,0 +1,15 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//camelCase
+		//Don't Repeat Yourself - DRY
+		String internetSubeButonu="İnternet Şubesi";
+		double dolarDun=8.15;
+		int vade=36;
+		
+		System.out.println(internetSubeButonu);
+	}
+
+}

@@ -1,0 +1,13 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//camelCase
+		//Don't Repeat Yourself
+		String internetSubeButonu="İnternet Şubesi";
+		
+		System.out.println(internetSubeButonu);
+	}
+
+}
